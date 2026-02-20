@@ -47,7 +47,7 @@ An interactive **Capture The Flag** cybersecurity challenge platform built with 
 **Jidel Abdelkader**
 - GitHub: [@djidelabdocs50-pixel](https://github.com/djidelabdocs50-pixel)
 - LinkedIn: [abdelkader-jidel](https://www.linkedin.com/in/abdelkader-jidel)
-- Portfolio: [your-portfolio-link](https://github.com/djidelabdocs50-pixel/portfolio)
+- Portfolio: [view-portfolio](https://github.com/djidelabdocs50-pixel/portfolio)
 
 ---
 
