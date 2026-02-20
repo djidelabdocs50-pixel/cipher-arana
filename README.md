@@ -2,7 +2,7 @@
 
 An interactive **Capture The Flag** cybersecurity challenge platform built with pure HTML, CSS, and JavaScript. Powered by **DeepSeek AI** for intelligent hints.
 
-**Live Demo:** [Play Now](https://yourusername.github.io/cipher-arena)
+**Live Demo:** [Play Now](https://djidelabdocs50-pixel.github.io/cipher-arena)
 
 ---
 
@@ -32,19 +32,6 @@ An interactive **Capture The Flag** cybersecurity challenge platform built with 
 
 ---
 
-## 🚀 Deployment
-
-This is a single-file project — no installation or dependencies needed.
-
-### GitHub Pages
-1. Fork or clone this repo
-2. Go to **Settings → Pages**
-3. Set source to **main branch**
-4. Your site will be live at `https://yourusername.github.io/cipher-arena`
-
-### Local
-Just open `index.html` in any browser — it works offline too (AI hints require internet).
-
 ---
 
 ## 🛠️ Tech Stack
@@ -55,12 +42,12 @@ Just open `index.html` in any browser — it works offline too (AI hints require
 
 ---
 
-## 👤 Author
+## 👤 Creator
 
 **Jidel Abdelkader**
 - GitHub: [@djidelabdocs50-pixel](https://github.com/djidelabdocs50-pixel)
 - LinkedIn: [abdelkader-jidel](https://www.linkedin.com/in/abdelkader-jidel)
-- Portfolio: [your-portfolio-link]
+- Portfolio: [your-portfolio-link](https://github.com/djidelabdocs50-pixel/portfolio)
 
 ---
 
